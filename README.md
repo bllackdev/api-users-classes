@@ -1,3 +1,7 @@
+# API de Usarios Professores e Alunos
+
+<p>API desenvolvida durante a Next Level Week #2</p>
+
 # Funcionalidades
 
 ## Conexões
